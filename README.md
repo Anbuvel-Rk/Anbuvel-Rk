@@ -17,23 +17,21 @@ Computer Science Engineering Student passionate about building reliable software
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
 ## 🛠️ Tools & Technologies
 
-**Languages**
+### 💻 Programming Languages
+☕ Java • 🐍 Python • 🌐 JavaScript • 🧱 HTML • 🎨 CSS • 🗄️ SQL
 
-`Java` • `Python` • `JavaScript` • `HTML` • `CSS` • `SQL`
+### ⚙️ Frameworks & Libraries
+🍃 Spring Boot • 🌶️ Flask • 🟢 Node.js
 
-**Frameworks & Libraries**
+### 🧰 Development Tools
+🐙 Git • 🐱 GitHub • 💙 VS Code • 🐧 Linux • 🐳 Docker
 
-`Spring Boot` • `Flask` • `Node.js`
+### ☁️ Currently Learning
+☁️ AWS • ⚓ Kubernetes • 🔄 DevOps • 🛡️ Cybersecurity
 
-**Tools**
-
-`Git` • `GitHub` • `VS Code` • `Linux` • `Docker`
-
-**Currently Learning**
-
-`AWS` • `Kubernetes` • `DevOps` • `Cybersecurity`
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
