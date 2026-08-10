@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:8b0000,100:0d0d0d&height=220&section=header&text=ANBUVEL&fontSize=70&fontColor=ff2e2e&animation=fadeIn&fontAlignY=38&desc=root@anbuvel:~$%20whoami&descAlignY=58&descSize=20&descColor=cccccc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:8b0000,100:0d0d0d&height=220&section=header&text=ANBUVEL.R&fontSize=62&fontColor=ff2e2e&animation=fadeIn&fontAlignY=38&desc=root@anbuvel:~$%20whoami&descAlignY=58&descSize=20&descColor=cccccc" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF2E2E&center=true&vCenter=true&width=650&lines=%3E+booting+CSE+student.exe...;%3E+compiling+curiosity+%2B+caffeine;%3E+access+granted%3A+builder+mode+ON;%3E+consistency+%3E+intensity" alt="Typing SVG" />
@@ -19,16 +19,16 @@
 <br>
 
 ```ansi
-[0;31m┌──────────────────────────────────────────────────────────────────┐[0m
+[0;31m┌────────────────────────────────────────────────────────────────────┐[0m
 [0;31m│[0m  [1;37mSYSTEM LOG :: identity.log[0m                                          [0;31m│[0m
-[0;31m├──────────────────────────────────────────────────────────────────┤[0m
+[0;31m├────────────────────────────────────────────────────────────────────┤[0m
 [0;31m│[0m  [0;37m> user        :[0m Anbuvel.R                                          [0;31m│[0m
-[0;31m│[0m  [0;37m> class       :[0m Computer Science Engineering Student              [0;31m│[0m
-[0;31m│[0m  [0;37m> mission     :[0m Build reliable software. Break assumptions.       [0;31m│[0m
-[0;31m│[0m  [0;37m> arsenal     :[0m Java · Python · JS · Cloud · DevOps · Security   [0;31m│[0m
-[0;31m│[0m  [0;37m> mindset     :[0m Consistency beats intensity.                     [0;31m│[0m
-[0;31m│[0m  [0;37m> easter_egg  :[0m Anime enthusiast running on midnight builds ⚔    [0;31m│[0m
-[0;31m└──────────────────────────────────────────────────────────────────┘[0m
+[0;31m│[0m  [0;37m> class       :[0m Computer Science Engineering Student                [0;31m│[0m
+[0;31m│[0m  [0;37m> mission     :[0m Build reliable software. Break assumptions.         [0;31m│[0m
+[0;31m│[0m  [0;37m> arsenal     :[0m Java · Python · JS · Cloud · DevOps · Security     [0;31m│[0m
+[0;31m│[0m  [0;37m> mindset     :[0m Consistency beats intensity.                       [0;31m│[0m
+[0;31m│[0m  [0;37m> easter_egg  :[0m Anime enthusiast running on midnight builds ⚔      [0;31m│[0m
+[0;31m└────────────────────────────────────────────────────────────────────┘[0m
 ```
 
 <br>
@@ -58,33 +58,19 @@ philosophy: "Solve real problems. Ship real code. Never stop leveling up."
 
 **Languages**
 
-<img src="https://img.shields.io/badge/Java-8b0000?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-8b0000?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-8b0000?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-8b0000?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-8b0000?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-8b0000?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=dark" /><br><br>
 
 **Frameworks & Libraries**
 
-<img src="https://img.shields.io/badge/Spring_Boot-1a1a1a?style=for-the-badge&logo=springboot&logoColor=8b0000"/>
-<img src="https://img.shields.io/badge/Flask-1a1a1a?style=for-the-badge&logo=flask&logoColor=8b0000"/>
-<img src="https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=nodedotjs&logoColor=8b0000"/>
+<img src="https://skillicons.dev/icons?i=spring,flask,nodejs&theme=dark" /><br><br>
 
 **Tools & Infrastructure**
 
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=8b0000"/>
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=8b0000"/>
-<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=8b0000"/>
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=8b0000"/>
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=8b0000"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark" /><br><br>
 
 **Currently Compiling**
 
-<img src="https://img.shields.io/badge/AWS-2b0000?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-2b0000?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/DevOps-2b0000?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cybersecurity-2b0000?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,githubactions&theme=dark" />
 
 </div>
 
@@ -130,11 +116,22 @@ philosophy: "Solve real problems. Ship real code. Never stop leveling up."
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=8b0000"/>
-<img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=firefox&logoColor=8b0000"/>
-<img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=8b0000"/>
+<a href="https://linkedin.com/in/your-handle">
+  <img src="https://img.shields.io/badge/LINKEDIN-0a0a0a?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0a0a0a"/>
+</a>
+<a href="https://your-portfolio.com">
+  <img src="https://img.shields.io/badge/PORTFOLIO-0a0a0a?style=flat-square&logo=firefoxbrowser&logoColor=ff2e2e&labelColor=0a0a0a"/>
+</a>
+<a href="mailto:your@email.com">
+  <img src="https://img.shields.io/badge/EMAIL-0a0a0a?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=0a0a0a"/>
+</a>
+<a href="https://github.com/Anbuvel">
+  <img src="https://img.shields.io/badge/GITHUB-0a0a0a?style=flat-square&logo=github&logoColor=ffffff&labelColor=0a0a0a"/>
+</a>
 
-*(swap these badge links for your real profiles — happy to wire them up)*
+<br><br>
+
+*(swap the links above for your real profiles — happy to wire them up)*
 
 </div>
 
