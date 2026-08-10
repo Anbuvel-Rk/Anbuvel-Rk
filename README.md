@@ -1,107 +1,84 @@
-<h1 align="center">Hi there, I'm Anbuvel 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Java+%7C+Python+%7C+JavaScript+Developer;Exploring+Cloud%2C+DevOps+%26+Cybersecurity;Building+Reliable%2C+Real-World+Software" alt="Typing SVG" />
-</p>
+# Anbuvel
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anbuvel&label=Profile%20Views&color=e63946&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/Focus-Cloud%20%7C%20DevOps%20%7C%20Cybersecurity-e63946?style=flat&logo=cloudsmith&logoColor=white" alt="focus badge" />
-</p>
+**Computer Science Engineering Student — Software Development · Cloud · DevOps · Cybersecurity**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="450">
-</p>
+[![Email](https://img.shields.io/badge/Email-YOUR--EMAIL%40example.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-333333?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-333333?style=flat-square&logo=firefox&logoColor=white)](https://YOUR-PORTFOLIO-LINK)
 
----
+</div>
 
-## 🚀 About Me
+<br>
 
-```yaml
-name: Anbuvel
-role: Computer Science Engineering Student
-languages: [Java, Python, JavaScript, SQL]
-currently_learning: [AWS, Kubernetes, DevOps, Cybersecurity]
-interests: [Artificial Intelligence, Machine Learning, Cloud Computing]
-philosophy: "Consistency beats intensity. Build. Learn. Improve."
-easter_egg: samurai_spirit 🗡️
-```
+## About
 
-- 🎓 Computer Science Engineering Student
-- ☕ Java Developer &nbsp;|&nbsp; 🐍 Python Programmer &nbsp;|&nbsp; 🌐 JavaScript Developer
-- ☁️ Learning Cloud Computing & DevOps
-- 🔐 Exploring Cybersecurity
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 📚 Always learning and building new projects
-- 🎮 Anime enthusiast — samurai aesthetic runs through everything I build
+Computer Science Engineering student focused on building reliable, production-quality software. Working across Java and full-stack JavaScript, with an active interest in cloud infrastructure, DevOps practices, and cybersecurity fundamentals. Comfortable moving between backend systems, applied AI/ML, and modern web development — with an emphasis on writing code that holds up outside a tutorial.
 
----
+- 🎓 B.E. Computer Science Engineering (in progress)
+- 💻 Primary stack: Java, Python, JavaScript/Node.js, SQL
+- ☁️ Currently deepening AWS, Kubernetes, and CI/CD practices
+- 🔐 Building foundational skills in cybersecurity
+- 🤖 Applying AI/ML concepts to practical projects
+- 🌍 Open to open-source contribution and collaborative engineering work
 
-## 🛠️ Tools & Technologies
+<br>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=dark" />
-</p>
+## Technical Skills
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,flask,nodejs,express&theme=dark" />
-</p>
+**Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark" />
-</p>
+**Frameworks & Runtimes**
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes&theme=dark" />
-  <img src="https://img.shields.io/badge/DevOps-Learning-orange?style=for-the-badge&logo=devopsdotcom&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-Exploring-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
-</p>
+**Infrastructure & Tools**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
----
+<br>
 
-## 🎯 Current Focus
+## Current Focus
 
-| 🧩 Area | 📌 Details |
+| Area | Details |
 |---|---|
-| 💻 Full-Stack Projects | Building Java & full-stack applications |
-| 🧠 DSA | Mastering Data Structures & Algorithms |
-| ☁️ Cloud & DevOps | Learning AWS, Kubernetes, CI/CD pipelines |
-| 🤖 AI Applications | Exploring practical AI/ML use cases |
-| 🌍 Open Source | Contributing to open-source projects |
+| Full-Stack Development | Building Java and JavaScript/Node.js applications end to end |
+| Data Structures & Algorithms | Ongoing, structured practice |
+| Cloud & DevOps | AWS fundamentals, Kubernetes, CI/CD pipelines |
+| Cybersecurity | Core concepts and applied fundamentals |
+| Applied AI/ML | Practical, project-driven exploration |
 
----
+<br>
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anbuvel&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=e63946&icon_color=e63946" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anbuvel&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=e63946" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anbuvel&theme=radical&hide_border=true&background=0d1117&ring=e63946&fire=e63946" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=anbuvel&show_icons=true&theme=default&hide_border=true&title_color=222222&icon_color=555555&text_color=333333" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anbuvel&layout=compact&theme=default&hide_border=true&title_color=222222&text_color=333333" height="165" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anbuvel&theme=react-dark&hide_border=true&bg_color=0d1117&color=e63946&line=e63946&point=ffffff" />
-</p>
+</div>
 
----
+<br>
 
-## 🤝 Connect With Me
+## Contact
 
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://YOUR-PORTFOLIO-LINK" target="_blank"><img src="https://img.shields.io/badge/Portfolio-e63946?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-</p>
+Open to internship opportunities, collaborative projects, and open-source work.
 
----
-
-<p align="center">
-  <i>"Consistency beats intensity. Build. Learn. Improve." 🚀</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=e63946&height=100&section=footer" />
-</p>
+[![Email](https://img.shields.io/badge/-Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR-PORTFOLIO-LINK)
