@@ -1,113 +1,149 @@
 <div align="center">
-<img src="./assets/profile.png" width="260" style="border-radius:6px;" />
 
-# ANBUVEL
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:8b0000,100:0d0d0d&height=220&section=header&text=ANBUVEL&fontSize=70&fontColor=ff2e2e&animation=fadeIn&fontAlignY=38&desc=root@anbuvel:~$%20whoami&descAlignY=58&descSize=20&descColor=cccccc" width="100%"/>
 
-```
-> whoami
-Computer Science Engineering Student
-Software Development · Cloud · DevOps · Cybersecurity
-
-> status
-Building. Learning. Improving. — Consistently.
-```
-
-[![Email](https://img.shields.io/badge/-Email-0d1117?style=flat-square&logo=gmail&logoColor=39ff14)](mailto:YOUR-EMAIL@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=39ff14)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0d1117?style=flat-square&logo=firefox&logoColor=39ff14)](https://YOUR-PORTFOLIO-LINK)
-[![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=flat-square&logo=github&logoColor=39ff14)](https://github.com/YOUR-USERNAME)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF2E2E&center=true&vCenter=true&width=650&lines=%3E+booting+CSE+student.exe...;%3E+compiling+curiosity+%2B+caffeine;%3E+access+granted%3A+builder+mode+ON;%3E+consistency+%3E+intensity" alt="Typing SVG" />
+</a>
 
 </div>
 
 <br>
 
-```
-$ cat about.txt
-```
+<div align="center">
+<img src="https://img.shields.io/badge/STATUS-ONLINE-8b0000?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/ROLE-CSE_STUDENT-8b0000?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/MODE-BUILD_%26_BREAK-8b0000?style=for-the-badge&logo=terminal&logoColor=white&labelColor=0d0d0d"/>
+</div>
 
-Computer Science Engineering student focused on building reliable, production-grade software. Working across Java and full-stack JavaScript, with an active interest in cloud infrastructure, DevOps pipelines, and cybersecurity fundamentals. Comfortable operating across the stack — from backend systems to applied AI/ML to modern web interfaces — with an emphasis on code that survives contact with the real world.
+<br>
 
-```
-[ ] B.E. Computer Science Engineering — in progress
-[x] Core: Java, Python, JavaScript/Node.js, SQL
-[ ] Deepening: AWS, Kubernetes, CI/CD
-[ ] Building: Cybersecurity fundamentals
-[x] Applying: AI/ML to real projects
-[ ] Open to: Open-source contribution, internships
+```ansi
+[0;31m┌──────────────────────────────────────────────────────────────────┐[0m
+[0;31m│[0m  [1;37mSYSTEM LOG :: identity.log[0m                                          [0;31m│[0m
+[0;31m├──────────────────────────────────────────────────────────────────┤[0m
+[0;31m│[0m  [0;37m> user        :[0m Anbuvel.R                                          [0;31m│[0m
+[0;31m│[0m  [0;37m> class       :[0m Computer Science Engineering Student              [0;31m│[0m
+[0;31m│[0m  [0;37m> mission     :[0m Build reliable software. Break assumptions.       [0;31m│[0m
+[0;31m│[0m  [0;37m> arsenal     :[0m Java · Python · JS · Cloud · DevOps · Security   [0;31m│[0m
+[0;31m│[0m  [0;37m> mindset     :[0m Consistency beats intensity.                     [0;31m│[0m
+[0;31m│[0m  [0;37m> easter_egg  :[0m Anime enthusiast running on midnight builds ⚔    [0;31m│[0m
+[0;31m└──────────────────────────────────────────────────────────────────┘[0m
 ```
 
 <br>
 
+## 🕶️ `> about_me`
+
+```yaml
+role: "Computer Science Engineering Student"
+specialties:
+  - Java Development
+  - Python Programming
+  - Full-Stack Engineering
+learning:
+  - Cloud Computing (AWS)
+  - DevOps & Container Orchestration (Docker, Kubernetes)
+  - Cybersecurity fundamentals
+exploring:
+  - Artificial Intelligence & Machine Learning
+philosophy: "Solve real problems. Ship real code. Never stop leveling up."
 ```
-$ ls skills/
-```
+
+<br>
+
+## ⚙️ `> tech_stack --scan`
+
+<div align="center">
 
 **Languages**
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=39ff14)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=39ff14)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=39ff14)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=mysql&logoColor=39ff14)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=39ff14)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=39ff14)
 
-**Frameworks / Runtime**
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0d1117?style=flat-square&logo=springboot&logoColor=39ff14)
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=39ff14)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=39ff14)
-![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=39ff14)
+<img src="https://img.shields.io/badge/Java-8b0000?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-8b0000?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-8b0000?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-8b0000?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-8b0000?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-8b0000?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-**Infrastructure / Tooling**
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=39ff14)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=39ff14)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=39ff14)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=39ff14)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=39ff14)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=39ff14)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=39ff14)
+**Frameworks & Libraries**
 
-<br>
+<img src="https://img.shields.io/badge/Spring_Boot-1a1a1a?style=for-the-badge&logo=springboot&logoColor=8b0000"/>
+<img src="https://img.shields.io/badge/Flask-1a1a1a?style=for-the-badge&logo=flask&logoColor=8b0000"/>
+<img src="https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=nodedotjs&logoColor=8b0000"/>
 
-```
-$ cat focus.log
-```
+**Tools & Infrastructure**
 
-| Module | Status |
-|---|---|
-| Full-Stack Development | Java & Node.js applications, end to end |
-| Data Structures & Algorithms | Ongoing, structured practice |
-| Cloud & DevOps | AWS fundamentals, Kubernetes, CI/CD pipelines |
-| Cybersecurity | Core concepts, applied fundamentals |
-| Applied AI/ML | Practical, project-driven exploration |
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=8b0000"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=8b0000"/>
+<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=8b0000"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=8b0000"/>
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=8b0000"/>
 
-<br>
+**Currently Compiling**
 
-```
-$ ./run_stats.sh
-```
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9" height="165" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=dark&hide_border=true&background=0d1117&ring=39ff14&fire=39ff14&currStreakLabel=39ff14" />
+<img src="https://img.shields.io/badge/AWS-2b0000?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-2b0000?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/DevOps-2b0000?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cybersecurity-2b0000?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 
 </div>
 
 <br>
 
-```
-$ cat contact.txt
+## 🎯 `> current_objectives.exe`
+
+```diff
++ Building Java & Full-Stack projects that solve real problems
++ Mastering Data Structures & Algorithms — daily reps, no skipped days
++ Leveling up Cloud & DevOps skills (AWS, Docker, Kubernetes)
++ Exploring practical AI/ML applications
++ Contributing to Open Source — leaving the codebase better than found
 ```
 
-Open to internship opportunities, collaborative projects, and open-source work.
+<br>
+
+## 📡 `> live_stats --fetch`
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Anbuvel&show_icons=true&hide_border=true&theme=transparent&title_color=ff2e2e&icon_color=8b0000&text_color=cccccc&bg_color=00000000"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Anbuvel&hide_border=true&theme=transparent&ring=8b0000&fire=ff2e2e&currStreakLabel=ff2e2e&background=00000000"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anbuvel&layout=compact&hide_border=true&theme=transparent&title_color=ff2e2e&text_color=cccccc&bg_color=00000000"/>
+</div>
+
+> ⚠️ **Note:** Replace `Anbuvel` above with your exact GitHub username so the stat cards render correctly.
+
+<br>
+
+## 🗡️ `> philosophy.log`
+
+```ansi
+[0;31m"Consistency beats intensity.[0m
+[0;31m Build. Learn. Improve."[0m
+```
+
+<br>
+
+## 📡 `> connect`
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39ff14)](mailto:YOUR-EMAIL@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39ff14)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=39ff14)](https://YOUR-PORTFOLIO-LINK)
+<img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=8b0000"/>
+<img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=firefox&logoColor=8b0000"/>
+<img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=8b0000"/>
 
-`EOF`
+*(swap these badge links for your real profiles — happy to wire them up)*
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Anbuvel&color=8b0000&style=for-the-badge&label=TRANSMISSIONS+RECEIVED)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:8b0000,100:0d0d0d&height=100&section=footer" width="100%"/>
 
 </div>
