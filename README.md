@@ -1,7 +1,5 @@
 <div align="center">
-
-# 🧩 Anbuvel-R.K 🧩
-
+  
 ### <samp>☁️ Cloud & DevOps Enthusiast  •  🧑‍💻 CS Undergraduate (2nd Year)</samp>
 
 I am a Computer Science student with a strong interest in **Cloud Computing, DevOps, and Linux Systems Administration**.
